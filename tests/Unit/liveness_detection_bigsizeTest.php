@@ -5,7 +5,7 @@ namespace Tests\Unit;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithoutMiddleware;
 
-//imagefile_8.61MB
+//imagefile_2.1MB
 
 class liveness_detection_bigsizeTest extends TestCase
 {
